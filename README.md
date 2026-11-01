@@ -39,3 +39,9 @@ Clone the repo, open `KeepTicking_Plugin.sln`, and build the `Server Release|x64
 ## Disclaimer
 
 Use at your own risk. The authors are not responsible for any damage caused by using this software.
+
+## Credits
+
+Original mod by [@AlienXAXS](https://github.com/AlienXAXS).
+
+Maintained by [@msantoro12](https://github.com/msantoro12).
